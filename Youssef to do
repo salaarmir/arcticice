@@ -1,0 +1,8 @@
+merge datasets
+find and remove errors
+decide what to replace them with
+
+write up pre processing completed with justification
+
+change the code that loads csv files. using names is too specific
+
