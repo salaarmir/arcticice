@@ -1,4 +1,4 @@
-# Arctic Ice Analysis
+# Arctic Ice Machine Learning Analysis
 
 This group project was part of the MSc in Computational Neuroscience at the University of Nottingham. It involves the analysis of Arctic ice data, including temperature, methane, and carbon dioxide levels, to understand the long-term trends in Arctic ice loss and its correlation with climate change. The project includes data preprocessing, linear regression, and time series analysis.
 
